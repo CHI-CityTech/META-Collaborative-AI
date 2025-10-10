@@ -1,3 +1,4 @@
+HI!  
 # Collaborative-AI
 Dr. David B. Smith.  
 Center for Holistic Integration  
