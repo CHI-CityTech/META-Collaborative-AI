@@ -3,7 +3,8 @@ Dr. David B. Smith.
 Center for Holistic Integration  
 City Tech, CUNY  
 
-**Curriculum and OER materials for exploring AI as a partner rather than a tool.**
+**Curriculum and OER materials for exploring AI as a partner rather than a tool.**  
+For specific courses that are part of the collaborative AI ecosystem please visit our associated Repository: [AI-Curriculum](https://github.com/CHI-CityTech/AI-Curriculum)  
 
 ---
 
